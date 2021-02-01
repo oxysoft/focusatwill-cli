@@ -8,9 +8,9 @@ If you do use Fish and wish to use these scripts, continue on to the Dependencie
 
 # Dependencies:
 
-* cURL: sending requests and downloading tracks
-* joq: extracting data from json, quick and easy
-* MPV: for playing tracks
+* cURL: sending requests and downloading tracks.
+* jq: extracting data from json, quick and easy.
+* MPV: for playing tracks.
 
 # Usage
 
